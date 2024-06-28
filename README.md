@@ -1,7 +1,4 @@
-# python-api-challenge
-Boot Camp Activities - APIs
-
-### WeatherPy and VacationPy
+# WeatherPy and VacationPy
 This repository contains two Python-based projects: WeatherPy and VacationPy. Both projects involve data analysis and visualization using various APIs and libraries.
 
 ## **Part 1: WeatherPy**
